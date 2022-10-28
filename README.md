@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
-<h3 align="center">A mobile apps developer from India</h3>
+<h3 align="center">A mobile developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=freakyali&label=Profile%20views&color=0e75b6&style=flat" alt="freakyali" /> </p>
 
