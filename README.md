@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Flutter and Dart**
 
-- 📝 I regularly write articles on [https://medium.com/@freakyali](https://medium.com/@freakyali)
+- 📝 I regularly write articles on [my blog](https://medium.com/@freakyali)
 
 - 💬 Ask me about **Pretty much anything techie!!**
 
