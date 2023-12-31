@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=freakyali" alt="freakyali" /></a> </p>
 
-- I am currently working on [Maui.FreakyControls](https://github.com/FreakyAli/Maui.FreakyControls)
+- I am currently working on some fun .NET MAUI and Flutter OSS
 
-- 🌱 I’m currently learning **Flutter and Dart**
+- 🌱 I’m currently learning **Rust**
 
 - 📝 I regularly write articles on [my blog](https://medium.com/@freakyali)
 
